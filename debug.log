@@ -1,0 +1,16 @@
+[1011/220516.877:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1011/221516.882:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1011/221516.883:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1011/222016.878:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1011/223516.880:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1020/003340.169:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1021/001256.031:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1021/153906.180:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1121/230401.185:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1122/132824.707:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1122/202312.460:ERROR:process_info.cc(359)] UncheckedAllocate
+[1123/001313.509:ERROR:process_info.cc(359)] UncheckedAllocate
+[1123/002420.715:ERROR:process_info.cc(359)] UncheckedAllocate
+[1123/003018.951:ERROR:process_info.cc(359)] UncheckedAllocate
+[1123/003019.010:ERROR:process_info.cc(359)] UncheckedAllocate
+[1123/012410.345:ERROR:process_info.cc(359)] UncheckedAllocate
